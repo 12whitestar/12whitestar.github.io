@@ -1,5 +1,3 @@
-# 12whitestar.github.io
-<!DOCTYPE html>
 <html>
 <head>
 <title>
@@ -8,8 +6,8 @@ Welcome to 12Whitestars Homepage
 </head>
 <body style="background-color:rgb(0,0,0);">
 
-<h1>About Me</h1>
-<p></p>
+<h1 style="color:white;">About Me</h1>
+<p style="color:white;"></p>
 
 </body>
 </html>
