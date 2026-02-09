@@ -6,7 +6,7 @@
 Welcome to 12Whitestars Homepage
 </title>
 </head>
-<body>
+<body style="background-color:rgb(0,0,0);">
 
 <h1>About Me</h1>
 <p></p>
