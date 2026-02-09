@@ -1,13 +1,3 @@
-<html>
-<head>
-<title>
-Welcome to 12Whitestars Homepage
-</title>
-</head>
-<body style="background-color:rgb(0,0,0);">
-
-<h1 style="color:white;">About Me</h1>
-<p style="color:white;"></p>
-
-</body>
-</html>
+#12whitestar.github.io
+#this is the HTML files for My website
+#(initially created on Monday 9th February 2026)
